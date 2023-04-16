@@ -68,7 +68,7 @@ export const programmingPortfolio = [
     {
       id: 4,
       title: "jQuery",
-      img: "https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png",
+      img: "https://www.interviewbit.com/blog/wp-content/uploads/2021/10/jquery-logo-vertical_large_square.png",
     },
     {
       id: 5,

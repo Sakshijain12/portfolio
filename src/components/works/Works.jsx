@@ -11,7 +11,7 @@ export default function Works() {
       desc:
         "Worked on the development of mobile application (both Android and iOS) which is social media platform, named as ”Hoffr”, for old age group people.",
       img:
-        "./assets/react native.png",
+        "./assets/react_native.png",
       type: "Internship",
       link:"https://github.com/Sakshijain12/House_of_Friends",
     },
